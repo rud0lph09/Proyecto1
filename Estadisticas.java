@@ -1,6 +1,6 @@
 class Estadisticas
 {
-   public static int listaMenu()
+   public int listaMenu()
    {
       int opcion;
       do
