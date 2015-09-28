@@ -15,5 +15,46 @@ class Estadisticas
         }while(opcion>15 || opcion<1);
         return opcion;
     }
-    
+       public PromIngresos()
+    {
+    }
+    public PromNivelEst()
+    {
+    }
+    public PorcenIdioma()
+    {
+    }
+    public PerVieja()
+    {
+    }
+    public PerJoven()
+    {
+    }
+    public PorcEstudia()
+    {
+    }
+    public PorcTrabaja()
+    {
+    }
+    public PromEdad()
+    {
+    }
+    public PerColonia()
+    {
+    }
+    public PerDelegacion()
+    {
+    }
+    public PorcMujer()
+    {
+    }
+    public PorcHombre()
+    {
+    }
+    public PorcPropia()
+    {
+    }
+    public PorcRenta()
+    {
+    }
 }
