@@ -1,18 +1,12 @@
 class PersonaP{
 private int edad;
 private String genero,estudios,ocupacion, idioma;
-private DireccionP dir;
-
-public PersonaP(){
-
-}
 
 public void CapturaPersona(){
 LeeEdad();
 LeeGenero();
 LeeEstudios();
 LeeOcupacion();
-dir.CapturaDireccion();
 }
 public void LeeEdad(){
 edad=Teclado.LeeEntero("Edad: ");
