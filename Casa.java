@@ -22,6 +22,6 @@ class Casa
    }
    public void capIngresos()
    {
-      ingresos=Teclado.LeeDouble("¿Cuáles son los ingresos mensuales de tu hogar? ");
+      ingresos=Teclado.LeeReal(¿Cuáles son los ingresos mensuales de tu hogar? ");
    }
 }
