@@ -1,5 +1,6 @@
 class Estadisticas
 {
+   Chido su cotorreo,,, trabajen!
    public int listaMenu()
    {
       int opcion;
